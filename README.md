@@ -8,7 +8,7 @@ Just a simple Solidity grammars using in Ethereum
  
  This is the browser of Remix - Ethereum IDE. You could set workspaces for using files individually.
  
- * remixd -s <your file path>  --remix-ide https://remix.ethereum.org
+ * remixd -s [your file path]  --remix-ide https://remix.ethereum.org
  
  Enter your terminal; must go inside the file which you want to execute.
  
