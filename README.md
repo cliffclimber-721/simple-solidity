@@ -3,6 +3,7 @@ Just a simple Solidity grammars using in Ethereum
 
 ## simpleStorage
 
+It could compiles on VSCode or you could use Remix to see how it works. 
 
 
 ## remixd-practice
