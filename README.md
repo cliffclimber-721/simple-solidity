@@ -27,6 +27,8 @@ It could compiles on VSCode or you could use Remix to see how it works.
 
 
  You need to use Remix, have to compile and deploy if it works well or not. Remix is specialized in Google Chrome, and you should see the results with Metamask. Network is used with Ropsten Network, the following results are at the bottom of the picture.
- 
+
+
+ <img width="200" src="https://user-images.githubusercontent.com/80508931/150274538-49ec637c-0952-425b-a21f-47357228cff4.png">
  
  More informations will be uploaded soon.
