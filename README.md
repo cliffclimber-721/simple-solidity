@@ -31,4 +31,11 @@ It could compiles on VSCode or you could use Remix to see how it works.
 
  <img width="200" src="https://user-images.githubusercontent.com/80508931/150274538-49ec637c-0952-425b-a21f-47357228cff4.png">
  
+ 
+ ## MyNFT
+ 
+ <img width="180" src="https://user-images.githubusercontent.com/80508931/150569913-ea5086ad-1125-41e6-bdb8-0811129f9082.png">
+ 
+ In mintNFT function, 'recipient' and 'tokenURL' space is given. At the 'recipient', you have to put the wallet address which is written at Metamask. And the 'tokenURL' needs the origin picture you want to mint.
+ 
  More informations will be uploaded soon.
