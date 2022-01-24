@@ -38,4 +38,8 @@ It could compiles on VSCode or you could use Remix to see how it works.
  
  In mintNFT function, 'recipient' and 'tokenURL' space is given. At the 'recipient', you have to put the wallet address which is written at Metamask. And the 'tokenURL' needs the origin picture you want to mint.
  
+ ## ERC-721 & KIP17
+ 
+ This resources are built with VSCode. Use extensions with Solidity and Javascript. To use ERC-721 and KIP17, it has a manual below this writings in Korean. Especially, when you have to compile about KIP17, Truffle version has to be in 5.1.23. 
+ 
  More informations will be uploaded soon.
